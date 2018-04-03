@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.22)  3 APR 2018 14:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.22)  3 APR 2018 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -953,16 +953,74 @@ Title too long for running head. Please supply
 a shorter form with \titlerunning prior to \maketitle
 Names of authors too long for running head. Please supply
 a shorter form with \authorrunning prior to \maketitle
+
+LaTeX Warning: Citation `NIST:2011' on page 1 undefined on input line 114.
+
+
+LaTeX Warning: Citation `Meikang' on page 1 undefined on input line 116.
+
+
+LaTeX Warning: Citation `fan2007power' on page 1 undefined on input line 116.
+
+
+LaTeX Warning: Citation `dong2011adams' on page 1 undefined on input line 116.
+
+
+LaTeX Warning: Citation `NIST:2011' on page 1 undefined on input line 140.
+
 [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Citation `lianginterval' on page 2 undefined on input line 153.
+
+
+LaTeX Warning: Citation `1432675' on page 2 undefined on input line 153.
+
+
+LaTeX Warning: Citation `venkatachalam2005power' on page 2 undefined on input l
+ine 172.
+
+
 Overfull \hbox (13.40492pt too wide) in paragraph at lines 172--173
 \OT1/cmr/m/n/10 The ma-jor part of power con-sump-tion in com-ple-men-tary meta
 l-oxide-semiconductor
  []
 
-[2] [3]
+[2]
+
+LaTeX Warning: Citation `vogelsang2010understanding' on page 3 undefined on inp
+ut line 175.
+
+
+LaTeX Warning: Citation `beloglazov2013energy' on page 3 undefined on input lin
+e 181.
+
+
+LaTeX Warning: Citation `Nathuji' on page 3 undefined on input line 187.
+
+
+LaTeX Warning: Citation `barroso' on page 3 undefined on input line 187.
+
+
+LaTeX Warning: Citation `fan2007power' on page 3 undefined on input line 199.
+
+
+LaTeX Warning: Citation `beloglazov2013energy' on page 3 undefined on input lin
+e 201.
+
+[3]
+
+LaTeX Warning: Citation `awada2014energy' on page 4 undefined on input line 204
+.
+
+
+LaTeX Warning: Citation `STRESSNG' on page 4 undefined on input line 210.
+
+
+LaTeX Warning: Citation `freeIPMI' on page 4 undefined on input line 213.
+
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `htbp') on input line 227.
@@ -995,11 +1053,13 @@ Overfull \hbox (34.7059pt too wide) in paragraph at lines 287--288
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5 <./imagens/CPU.png (PNG copy)>] <imagens/cpu.png, id=35, 502.87875pt x 297.
-36093pt>
-File: imagens/cpu.png Graphic file (type png)
+ [5 <./imagens/CPU.png (PNG copy)>]
 
-<use imagens/cpu.png>
+LaTeX Warning: Citation `Haydar' on page 6 undefined on input line 307.
+
+<imagens/cpu.png, id=35, 502.87875pt x 297.36093pt>
+File: imagens/cpu.png Graphic file (type png)
+ <use imagens/cpu.png>
 Package pdftex.def Info: imagens/cpu.png used on input line 315.
 (pdftex.def)             Requested size: 352.01273pt x 208.15123pt.
 
@@ -1038,33 +1098,37 @@ Overfull \hbox (4.88919pt too wide) in paragraph at lines 355--356
  [][] 
  []
 
-[8 <./imagens/memoria.png> <./imagens/prioridade.png>] (./main.bbl [9 <./imagen
-s/regras.png (PNG copy)>]) [10] (./main.aux) ) 
+[8 <./imagens/memoria.png> <./imagens/prioridade.png>]
+
+LaTeX Warning: Citation `mittal2015survey' on page 9 undefined on input line 37
+6.
+
+(./main.bbl) [9 <./imagens/regras.png (PNG copy)>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 13733 strings out of 493029
- 270291 string characters out of 6136234
- 308475 words of memory out of 5000000
- 16956 multiletter control sequences out of 15000+600000
+ 13732 strings out of 493029
+ 270283 string characters out of 6136234
+ 308420 words of memory out of 5000000
+ 16955 multiletter control sequences out of 15000+600000
  16012 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,69p,900b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
-ib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmm
-ib6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on main.pdf (10 pages, 223414 bytes).
+ 55i,11n,69p,901b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cmextra/cmmib6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on main.pdf (9 pages, 216061 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

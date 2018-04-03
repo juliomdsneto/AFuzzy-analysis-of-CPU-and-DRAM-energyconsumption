@@ -1,0 +1,9 @@
+main.blg
+main.fdb_latexmk
+main.fls
+main.log
+main.pdf
+*.dvi
+*.gz
+*.log
+~$*

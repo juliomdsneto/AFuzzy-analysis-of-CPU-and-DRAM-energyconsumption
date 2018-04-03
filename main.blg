@@ -1,52 +1,51 @@
 This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
-The style file: splncs.bst
-Database file #1: main.bib
-Warning--empty institution in NIST:2011
-Warning--can't use both volume and number fields in fan2007power
-Warning--empty school in beloglazov2013energy
-Warning--empty author in STRESSNG
-Warning--empty author in freeIPMI
+I couldn't open style file splncs.bst
+---line 50 of file main.aux
+ : \bibstyle{splncs
+ :                 }
+I'm skipping whatever remains of this command
+I found no style file---while reading file main.aux
 You've used 16 entries,
-            2087 wiz_defined-function locations,
-            959 strings with 13423 characters,
-and the built_in function-call counts, 4656 in all, are:
-= -- 481
-> -- 124
-< -- 13
-+ -- 48
-- -- 32
-* -- 328
-:= -- 591
-add.period$ -- 22
-call.type$ -- 16
-change.case$ -- 16
+            0 wiz_defined-function locations,
+            106 strings with 729 characters,
+and the built_in function-call counts, 0 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 0
+:= -- 0
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 21
-duplicate$ -- 256
-empty$ -- 461
-format.name$ -- 32
-if$ -- 1156
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 0
+format.name$ -- 0
+if$ -- 0
 int.to.chr$ -- 0
-int.to.str$ -- 16
-missing$ -- 12
-newline$ -- 83
-num.names$ -- 14
-pop$ -- 53
-preamble$ -- 1
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 0
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 0
 purify$ -- 0
 quote$ -- 0
-skip$ -- 181
+skip$ -- 0
 stack$ -- 0
-substring$ -- 290
-swap$ -- 144
-text.length$ -- 13
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 5
-while$ -- 43
-width$ -- 18
-write$ -- 186
-(There were 5 warnings)
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 0
+(There were 2 error messages)
