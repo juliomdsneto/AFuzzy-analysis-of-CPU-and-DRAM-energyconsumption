@@ -1,0 +1,140 @@
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:36
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:36
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:36
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:36
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:36
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:36
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:36
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:36
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:36
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:36
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:55
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:55
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:55
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:55
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:55
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:55
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:55
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:55
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:55
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 338 Watts
+Minimum Power over sampling duration : 338 watts
+Maximum Power over sampling duration : 338 watts
+Average Power over sampling duration : 338 watts
+Time Stamp                           : 05/16/2018 - 13:30:55
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available

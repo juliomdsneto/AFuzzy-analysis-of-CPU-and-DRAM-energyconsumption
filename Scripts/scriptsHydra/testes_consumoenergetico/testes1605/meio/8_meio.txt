@@ -1,0 +1,70 @@
+Current Power                        : 814 Watts
+Minimum Power over sampling duration : 814 watts
+Maximum Power over sampling duration : 814 watts
+Average Power over sampling duration : 814 watts
+Time Stamp                           : 05/19/2018 - 01:33:41
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 824 Watts
+Minimum Power over sampling duration : 824 watts
+Maximum Power over sampling duration : 824 watts
+Average Power over sampling duration : 824 watts
+Time Stamp                           : 05/19/2018 - 01:33:46
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 822 Watts
+Minimum Power over sampling duration : 824 watts
+Maximum Power over sampling duration : 824 watts
+Average Power over sampling duration : 824 watts
+Time Stamp                           : 05/19/2018 - 01:33:51
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 812 Watts
+Minimum Power over sampling duration : 812 watts
+Maximum Power over sampling duration : 822 watts
+Average Power over sampling duration : 817 watts
+Time Stamp                           : 05/19/2018 - 01:33:56
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 824 Watts
+Minimum Power over sampling duration : 812 watts
+Maximum Power over sampling duration : 822 watts
+Average Power over sampling duration : 817 watts
+Time Stamp                           : 05/19/2018 - 01:34:01
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 824 Watts
+Minimum Power over sampling duration : 814 watts
+Maximum Power over sampling duration : 824 watts
+Average Power over sampling duration : 819 watts
+Time Stamp                           : 05/19/2018 - 01:34:06
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 812 Watts
+Minimum Power over sampling duration : 814 watts
+Maximum Power over sampling duration : 824 watts
+Average Power over sampling duration : 819 watts
+Time Stamp                           : 05/19/2018 - 01:34:11
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 812 Watts
+Minimum Power over sampling duration : 812 watts
+Maximum Power over sampling duration : 822 watts
+Average Power over sampling duration : 817 watts
+Time Stamp                           : 05/19/2018 - 01:34:16
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 822 Watts
+Minimum Power over sampling duration : 812 watts
+Maximum Power over sampling duration : 822 watts
+Average Power over sampling duration : 817 watts
+Time Stamp                           : 05/19/2018 - 01:34:21
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
+Current Power                        : 812 Watts
+Minimum Power over sampling duration : 812 watts
+Maximum Power over sampling duration : 812 watts
+Average Power over sampling duration : 812 watts
+Time Stamp                           : 05/19/2018 - 01:34:26
+Statistics reporting time period     : 69380 milliseconds
+Power Measurement                    : Not Available
